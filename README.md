@@ -46,7 +46,6 @@ dotnet run
 ## Project Structure
 
 - `GettingStarted.sln` — Visual Studio solution file containing the sample projects.
-
 - `Client/Pages/Index.razor` — Contains the `SfProgressBar` component demonstration and ProgressBar configuration.
 
 ## Support and Feedback
